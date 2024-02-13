@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Pandey
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Devops 
+- 🌱 I’m currently working in UST
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...linkedin.com/in/aman-pandey-103150205
 
